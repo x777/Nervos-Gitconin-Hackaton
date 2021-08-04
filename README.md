@@ -20,3 +20,13 @@ https://explorer.nervos.org/aggron/address/ckt1qyqz338jvphpp26x3fxfge7hurhzlfsut
 
 * A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2.
 ![Screenshot of deposit Layer 2](https://github.com/x777/Nervos-Gitconin-Hackaton/blob/main/Create%20A%20Godwoken%20Account%20On%20The%20EVM%20Layer%202%20Testnet/deposit.png)
+
+
+* ### Gitcoin: 2) Deploy A Simple Ethereum Smart Contract On Polyjuice
+
+![Screenshot of deposit Layer 2](https://github.com/x777/Nervos-Gitconin-Hackaton/blob/main/Create%20A%20Godwoken%20Account%20On%20The%20EVM%20Layer%202%20Testnet/deposit.png)
+
+Deploying contract...
+Transaction hash: 0x966eb7b0d121b8b438a3fd149172d78231a3b51ca1f0c3d1422c2d63738c358a
+Deployed contract address: 0xa1ad5F5A30c8acd9A073E15108c0bFC2d28b2690
+
