@@ -1,0 +1,35 @@
+transactionHash: '0x44b4d3479f9622112bda52486447a1f65229cd0b12a2bbde9f6e08f07502341c'
+CONTRACT_ADDRESS: '0xa1ad5F5A30c8acd9A073E15108c0bFC2d28b2690'
+CONTRACT_ABI: [
+    {
+      "inputs": [],
+      "stateMutability": "payable",
+      "type": "constructor"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "uint256",
+          "name": "x",
+          "type": "uint256"
+        }
+      ],
+      "name": "set",
+      "outputs": [],
+      "stateMutability": "payable",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "get",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ]
