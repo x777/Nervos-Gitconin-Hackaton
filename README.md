@@ -1,4 +1,4 @@
-# Nervos-Gitconin-Hackaton
+# Nervos-Gitcoin-Hackathon
 
 ## Gitcoin hachaton completed tasks:
 
