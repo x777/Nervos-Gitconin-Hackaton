@@ -35,3 +35,8 @@ https://explorer.nervos.org/aggron/address/ckt1qyqz338jvphpp26x3fxfge7hurhzlfsut
 
 ```Deployed contract address: 0xa1ad5F5A30c8acd9A073E15108c0bFC2d28b2690```
 
+
+* ### Gitcoin: 3) Issue A Smart Contract Call To The Deployed Smart Contract
+
+
+
