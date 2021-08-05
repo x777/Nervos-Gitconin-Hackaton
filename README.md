@@ -103,3 +103,18 @@ https://explorer.nervos.org/aggron/transaction/0xf1ec6c9eda1213c910053c5c616697f
 
 * The SUDT ID from the console output after executing the deposit script:
 ```Your sudt id: 152```
+
+
+* ### Gitcoin: 5) Deploy The ERC20 Proxy Contract For The Deposited SUDT
+
+* A screenshot of the console output immediately after deploying smart contract:
+![Screenshot of deploying smart contract]()
+
+* The address of the ERC20 Proxy Contract you deployed:
+```0x7Bc720b63ebb2CD72EEb48D3cEE704cc64A97736```
+
+* A screenshot of the console output immediately after checking your SUDT balance:
+![Screenshot of SUDT balance]()
+
+* The Ethereum address that was checked:
+```0x37C2b41ea4a10308d043F790493A3CdEc28585ae```

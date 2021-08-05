@@ -1,0 +1,4 @@
+Using Ethereum address: 0x37C2b41ea4a10308d043F790493A3CdEc28585ae
+Deploying contract...
+Transaction hash: 0xdeb6f9c864fbf9bb3ea797c2c5f45c664033e6a59248cdb76830c363c619d1c0
+Deployed SUDT-ERC20 Proxy contract address: 0x7Bc720b63ebb2CD72EEb48D3cEE704cc64A97736
