@@ -123,7 +123,7 @@ https://explorer.nervos.org/aggron/transaction/0xf1ec6c9eda1213c910053c5c616697f
 * ### Gitcoin: 6) Use Force Bridge To Deposit Tokens From Ethereum To Polyjuice
 
 * A screenshot of the console output immediately after you have successfully generated your Deposit Receiver Address:
-![Screenshot of generated your Deposit Receiver Address]()
+![Screenshot of generated your Deposit Receiver Address](https://github.com/x777/Nervos-Gitconin-Hackaton/blob/main/Use%20Force%20Bridge%20To%20Deposit%20Tokens%20From%20Ethereum%20To%20Polyjuice/deposit_address_output.png)
 
 * Your Deposit Receiver Address:
 ```ckt1q3dz2p4mdrvp5ywu4kk5edl2uc4p03puvx07g7kgqdau3n3dmypkqnxzuefxyp9wdghglncj77k5wt6p59sx6kukyjlwh5s467qgp8m25yqqqqqsqqqqqvqqqqqfjqqqqzafegh3quae5ef05a8xk85m0qtshe73yzk43zs59dx6kgr3slrm76gqqqqpqqqqqqcqqqqqxyqqqqx7asf60w8pqpte2sfcfn90fdfzxue7ff2g8sawe9wacnqat6jmygqngqqqqpxv9ejjvgz2u63w3l839aadguh5rgtqd4devf97a0fpt4uqsz0k5d7zks02fggrprgy8ausfyarehkzskz6uq9rqgqqqqqqcq8td4nj```
