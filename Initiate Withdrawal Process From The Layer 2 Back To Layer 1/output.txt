@@ -1,0 +1,27 @@
+ckt1qyqz338jvphpp26x3fxfge7hurhzlfsut0xsymemnv -c 40000000000
+LUMOS_CONFIG_NAME: AGGRON4
+owner lock hash: 0xb65248061c7c0ffba9bec2ca84cbd609070525915cfaec75a263dfa9da19735f
+eth address: 0x37c2b41ea4a10308d043f790493a3cdec28585ae
+l2 lock hash: 0xdd99b7f54f0119fb2cdd8dee094fc6e397718bbb1f4a935780007609dddf5372
+--- godwoken withdraw ---
+nonce: 3
+withdrawalRequest: {
+  raw: {
+    nonce: '0x3',
+    capacity: '0x9502f9000',
+    amount: '0x0',
+    sudt_script_hash: '0x0000000000000000000000000000000000000000000000000000000000000000',
+    account_script_hash: '0xdd99b7f54f0119fb2cdd8dee094fc6e397718bbb1f4a935780007609dddf5372',
+    sell_amount: '0x0',
+    sell_capacity: '0x2540be400',
+    owner_lock_hash: '0xb65248061c7c0ffba9bec2ca84cbd609070525915cfaec75a263dfa9da19735f',
+    payment_lock_hash: '0x0000000000000000000000000000000000000000000000000000000000000000',
+    fee: { sudt_id: 1, amount: 0n }
+  },
+  signature: '0xc3c54aa427a70f65f7428cf03adf9f53f30e66152cf0a2f18182e14058abd6ba0764f30fd07c79b8f1d63fafca9a7967ab28d975f51ca6eef31da6e23326871901'
+}
+result: null
+--- godwoken withdraw finished ---
+Your account id: 121
+ckb balance in godwoken is: 239997962600
+Success! Withdrawal request sent. You need to wait now for the challenge period duration to pass to unlock the funds.
