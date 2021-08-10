@@ -28,5 +28,5 @@ https://rinkeby.etherscan.io/tx/0x4ab04a620b571e50ba97bf06e26973df53786cf1a07d4d
 https://explorer.nervos.org/aggron/transaction/0x7d11c2ba2ac8473c6d4995a5057fa5c4fea85b78bd765456bdfd36e4b73b1943
 
 
-### As a bonus - checked balance output:
-![Screenshot of balance]()
+### As a bonus - proof of checked balance output:
+![Screenshot of balance](https://github.com/x777/Nervos-Gitconin-Hackaton/blob/main/Use%20Force%20Bridge%20To%20Deposit%20Tokens%20From%20Ethereum%20To%20Polyjuice/sudt_balance.png)
