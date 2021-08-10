@@ -26,3 +26,7 @@ https://rinkeby.etherscan.io/tx/0x4ab04a620b571e50ba97bf06e26973df53786cf1a07d4d
 
 * A link to the Nervos explorer for the successful Force bridge transaction:
 https://explorer.nervos.org/aggron/transaction/0x7d11c2ba2ac8473c6d4995a5057fa5c4fea85b78bd765456bdfd36e4b73b1943
+
+
+### As a bonus - checked balance output:
+![Screenshot of balance]()
