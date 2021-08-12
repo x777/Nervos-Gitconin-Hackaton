@@ -11,9 +11,11 @@
 
 * If you deployed any smart contracts as part of this tutorial, please provide the transaction hash of the deployment transaction, the deployed contract address, and the ABI of the deployed smart contract:
 
-transaction hash: `0x1d87cd180ee4ad7f5f2e3e9554a60639c53a6fff546392d40eff059a8a5525cb`
-contract address: `0x57a4d44de477A569766Ab934Fff38281d034f3EF`
-ABI: 
+* transaction hash: `0x1d87cd180ee4ad7f5f2e3e9554a60639c53a6fff546392d40eff059a8a5525cb`
+
+* contract address: `0x57a4d44de477A569766Ab934Fff38281d034f3EF`
+
+* ABI: 
 `"abi": [
     {
       "inputs": [],
