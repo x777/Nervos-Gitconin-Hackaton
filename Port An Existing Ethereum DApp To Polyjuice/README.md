@@ -16,7 +16,7 @@
 * contract address: `0x57a4d44de477A569766Ab934Fff38281d034f3EF`
 
 * ABI: 
-`"abi": [
+```"abi": [
     {
       "inputs": [],
       "payable": false,
@@ -170,5 +170,5 @@
       "stateMutability": "nonpayable",
       "type": "function"
     }
-  ]`
+  ]```
 
