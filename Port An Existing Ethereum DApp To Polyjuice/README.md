@@ -2,6 +2,8 @@
 
 * Screenshots or video of your application running on Godwoken
 
+[Video example](https://youtu.be/BWWYPuCw0rY)
+
 ![Example screenshot 1](./img/task.png)
 ![Example screenshot 2](./img/task_2.png)
 
